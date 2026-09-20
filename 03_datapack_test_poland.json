@@ -2,16 +2,118 @@
   "PlayerData": [],
   "ClubData": [
     {
+      "ID": 650,
+      "Name": "Cracovia",
+      "ShortName": "CRA",
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Cracovia_%28football_club%29_logo.svg/330px-Cracovia_%28football_club%29_logo.svg.png"
+    },
+    {
+      "ID": 1898,
+      "Name": "GKS Katowice",
+      "ShortName": "GKS",
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/en/thumb/1/13/GKS_Katowice_crest.svg/330px-GKS_Katowice_crest.svg.png"
+    },
+    {
+      "ID": 1075,
+      "Name": "Górnik Zabrze",
+      "ShortName": "GÓR",
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/en/thumb/5/58/G%C3%B3rnik_Zabrze_crest.svg/330px-G%C3%B3rnik_Zabrze_crest.svg.png"
+    },
+    {
+      "ID": 1255,
+      "Name": "Jagiellonia Białystok",
+      "ShortName": "JAG",
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/en/thumb/9/90/Jagiellonia_Bia%C5%82ystok_logo.svg/330px-Jagiellonia_Bia%C5%82ystok_logo.svg.png"
+    },
+    {
+      "ID": 1070,
+      "Name": "Korona Kielce",
+      "ShortName": "KOR",
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/en/f/fc/Korona_Kielce_crest.png"
+    },
+    {
+      "ID": 918,
+      "Name": "Lech Poznań",
+      "ShortName": "LPO",
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b0/KKS_Lech_Pozna%C5%84.svg/330px-KKS_Lech_Pozna%C5%84.svg.png"
+    },
+    {
+      "ID": 651,
+      "Name": "Legia Warszawa",
+      "ShortName": "LEG",
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Legia_Warsaw_logo.svg/330px-Legia_Warsaw_logo.svg.png"
+    },
+    {
+      "ID": 4158,
+      "Name": "Motor Lublin",
+      "ShortName": "MOT",
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/en/thumb/1/14/Motor_Lublin.svg/330px-Motor_Lublin.svg.png"
+    },
+    {
+      "ID": 1301,
+      "Name": "Piast Gliwice",
+      "ShortName": "PIA",
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/GKS_Piast_Gliwice.svg/330px-GKS_Piast_Gliwice.svg.png"
+    },
+    {
+      "ID": 1077,
+      "Name": "Pogoń Szczecin",
+      "ShortName": "POG",
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/en/thumb/5/55/Pogon_Szczecin_logo.svg/330px-Pogon_Szczecin_logo.svg.png"
+    },
+    {
+      "ID": 4435,
+      "Name": "Radomiak Radom",
+      "ShortName": "RAD",
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Herb_radomiaka_300dpi.png/330px-Herb_radomiaka_300dpi.png"
+    },
+    {
+      "ID": 3606,
+      "Name": "Raków Częstochowa",
+      "ShortName": "RCZ",
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Rks_rakow_crest_ai.svg/330px-Rks_rakow_crest_ai.svg.png"
+    },
+    {
+      "ID": 1303,
+      "Name": "Śląsk Wrocław",
+      "ShortName": "ŚLĄ",
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/en/thumb/1/15/%C5%9Al%C4%85sk_Wroc%C5%82aw_logo.svg/330px-%C5%9Al%C4%85sk_Wroc%C5%82aw_logo.svg.png"
+    },
+    {
+      "ID": 6115,
+      "Name": "Wieczysta Kraków",
+      "ShortName": "WIE",
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/KS_Wieczysta_Krak%C3%B3w_Logo.png/330px-KS_Wieczysta_Krak%C3%B3w_Logo.png"
+    },
+    {
+      "ID": 649,
+      "Name": "Wisła Kraków",
+      "ShortName": "WIS",
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Wis%C5%82a_Krak%C3%B3w_logo.svg/330px-Wis%C5%82a_Krak%C3%B3w_logo.svg.png"
+    },
+    {
+      "ID": 652,
+      "Name": "Wisła Płock",
+      "ShortName": "WPŁ",
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Wisla_P%C5%82ock.png/330px-Wisla_P%C5%82ock.png"
+    },
+    {
       "ID": 1072,
       "Name": "Widzew Łódź",
       "ShortName": "WID",
       "ImageURL": "https://media.cms.ekstraklasa.org/teams/WID/efed6802-8252-44a1-9d1b-943d224c4b50/crest.jpg"
+    },
+    {
+      "ID": 1060,
+      "Name": "Zagłębie Lubin",
+      "ShortName": "ZAG",
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/en/thumb/2/20/Zag%C5%82%C4%99bie_Lubin_crest.svg/330px-Zag%C5%82%C4%99bie_Lubin_crest.svg.png"
     }
   ],
   "LeagueData": [
     {
       "ID": 153,
-      "Name": "PKO BP Ekstraklasa",
+      "Name": "PKO Bank Polski Ekstraklasa",
       "ImageURL": "https://www.footylogos.com/downloads/logo/ekstraklasa-poland-logo-footylogos.png"
     }
   ],
