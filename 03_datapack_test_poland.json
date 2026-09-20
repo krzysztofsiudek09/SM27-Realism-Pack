@@ -1,0 +1,24 @@
+{
+  "PlayerData": [],
+  "ClubData": [
+    {
+      "ID": 1072,
+      "Name": "Widzew Łódź",
+      "ShortName": "WID",
+      "ImageURL": "https://media.cms.ekstraklasa.org/teams/WID/efed6802-8252-44a1-9d1b-943d224c4b50/crest.jpg"
+    }
+  ],
+  "LeagueData": [
+    {
+      "ID": 153,
+      "Name": "PKO BP Ekstraklasa",
+      "ImageURL": "https://www.footylogos.com/downloads/logo/ekstraklasa-poland-logo-footylogos.png"
+    }
+  ],
+  "CupData": [],
+  "StadiumData": [],
+  "ManagerData": [],
+  "InternationalData": [],
+  "InternationalCupData": [],
+  "AwardData": []
+}
